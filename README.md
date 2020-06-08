@@ -11,7 +11,8 @@ The deciding factor for most would be on how lively, supportive, vibrant and uni
 
 
 # DATA SECTION
-For any “data science project” data is of paramount importance. For this study, we needed data about neighborhoods in each of these metro cities. The neighborhoods with their respective districts and postal codes for all  would serve us well for this study. 
+For any “data science project” data is of paramount importance. 
+For this study, we needed data about neighborhoods in each of these metro cities. The neighborhoods with their respective districts and postal codes for all  would serve us well for this study. 
 For this project we need the following data :
 
 •	New Delhi  neighborhood  data that contains list Locality, districts, pin codes

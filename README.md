@@ -23,16 +23,22 @@ Data source : "https://www.movingsolutions.in/blog/2020/02/05/pin-codes-of-delhi
 Data source: "https://www.mapsofindia.com/pincode/india/maharashtra/mumbai
 	
 	Description :  will parse the required information from the above said website. And we will use this data set to explore various locality of new delhi city and mumbai
+
 •	Nearby places in each locality of new delhi city and mumbai
+
 	Data source : Fousquare API
+
 	Description : By using this api we will get all the venues in each neighborhood of both the cities.
-Apparoch
+
 
 Approach
 
 •	Collect the new delhi  and Mumbai city data from above mentioned websites .
+
 •	Using FourSquare API we will find all venues for each neighborhood in both the cities
+
 •	Filter out all venues that are nearby by locality.
+
 •	Using aggregative rating for each coomon venue  to find the best places and sort them accordingly.
 I
 

@@ -22,8 +22,9 @@ Data source : "https://www.movingsolutions.in/blog/2020/02/05/pin-codes-of-delhi
 	 Mumbai neighborhood  data that contains list Locality, districts, pin codes
 
 Data source: "https://www.mapsofindia.com/pincode/india/maharashtra/mumbai
-	
-	Description :  will parse the required information from the above said website. And we will use this data set to explore various locality of new delhi city and mumbai
+
+
+Description :  will parse the required information from the above said website. And we will use this data set to explore various locality of new delhi city and mumbai
 
 •	Nearby places in each locality of new delhi city and mumbai
 

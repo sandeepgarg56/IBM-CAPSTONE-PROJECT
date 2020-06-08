@@ -13,9 +13,13 @@ The deciding factor for most would be on how lively, supportive, vibrant and uni
 # DATA SECTION
 For any “data science project” data is of paramount importance. For this study, we needed data about neighborhoods in each of these metro cities. The neighborhoods with their respective districts and postal codes for all  would serve us well for this study. 
 For this project we need the following data :
+
 •	New Delhi  neighborhood  data that contains list Locality, districts, pin codes
+
 Data source : "https://www.movingsolutions.in/blog/2020/02/05/pin-codes-of-delhi-locations
+
 	 Mumbai neighborhood  data that contains list Locality, districts, pin codes
+
 Data source: "https://www.mapsofindia.com/pincode/india/maharashtra/mumbai
 	
 	Description :  will parse the required information from the above said website. And we will use this data set to explore various locality of new delhi city and mumbai
@@ -25,6 +29,7 @@ Data source: "https://www.mapsofindia.com/pincode/india/maharashtra/mumbai
 Apparoch
 
 Approach
+
 •	Collect the new delhi  and Mumbai city data from above mentioned websites .
 •	Using FourSquare API we will find all venues for each neighborhood in both the cities
 •	Filter out all venues that are nearby by locality.
